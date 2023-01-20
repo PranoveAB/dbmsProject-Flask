@@ -1,12 +1,12 @@
 # University Health Management System 
 ## Developed as learning project for the course - Database Management Systems CS5200 at Northeastern University
 
-• Designed a MySQL Database Schema for a hospital, and various database programming objects
+* Designed a MySQL Database Schema for a hospital, and various database programming objects
 such as procedures, triggers, prepared statements, and functions
-• Developed a web application using Python‑Flask, PyMySQL, and HTML to demonstrate learning
+* Developed a web application using Python‑Flask, PyMySQL, and HTML to demonstrate learning
 of MySQL’s CRUD operations on the front end by establishing a connection with the designed schema
-• Learnt to develop and use various HTTP request/response methods for API
-• Integrated a third‑party calendar tool to visualize doctor’s and patients’ appointments on a monthly calendar using JavaScript
+* Learnt to develop and use various HTTP request/response methods for API
+* Integrated a third‑party calendar tool to visualize doctor’s and patients’ appointments on a monthly calendar using JavaScript
 
 
 
